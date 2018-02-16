@@ -1,0 +1,23 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "assignment required us to create a Hangman game that can be played in Terminal/GitBash",
+  "main": "main.js",
+  "dependencies": {
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kongm12/ConstructorHangman.git"
+  },
+  "author": "Miles Kong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kongm12/ConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/kongm12/ConstructorHangman#readme"
+}
